@@ -1,6 +1,6 @@
-**USV-Aligator (X1V1)**
+**USV-Shark (X1V1)**
 
-I've been developing personal project in unmanned sorface vehicle.
+I've been developing personal project in unmanned surface vehicle.
 
 Tech Used
 
