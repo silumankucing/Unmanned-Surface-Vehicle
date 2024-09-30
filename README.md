@@ -15,5 +15,5 @@ Open source unmanned surface vehicle project.
 *Structural*
 - 3D Printed PLA <br>
 
-![Screenshot 2024-03-03 193401](https://github.com/kucingkuro/USV/assets/112769418/f02ceb46-b691-40b2-8e36-cd90ac041618)
-![Screenshot 2024-03-03 193430](https://github.com/kucingkuro/USV/assets/112769418/42a697d0-402d-4c00-8aaf-3c8c1043d139)
+![Screenshot 2024-09-30 181057](https://github.com/user-attachments/assets/fcfc3437-5bbd-4359-bf61-9c35e7801322)
+![Screenshot 2024-09-30 181125](https://github.com/user-attachments/assets/3eb64226-56e3-485f-9413-1aa78d4780af)
