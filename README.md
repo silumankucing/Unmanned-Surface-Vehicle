@@ -1,4 +1,4 @@
-**Unmanned Surface Vehicle - Ranger**
+**UNMANNED SURFACE VEHICLE - RANGER**
 
 Open source unmanned surface vehicle project.
 
