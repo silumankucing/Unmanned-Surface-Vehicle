@@ -1,4 +1,4 @@
-**UNMANNED SURFACE VEHICLE - RANGER**
+**UNMANNED SURFACE VEHICLE - SHARK**
 
 Open source unmanned surface vehicle project.
 
