@@ -1,4 +1,4 @@
-Open source unmanned surface vehicle project
+Open source unmanned surface vehicle
 
 <ins>*Hardware*</ins>
 - ELRS ER5A Receiver
